@@ -3002,7 +3002,7 @@ ul {
 /*********** contact part css start ***********/
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_contact_part.scss */
 .contact_part {
-    background-image: url('../img/contact_bg.jpg');
+    background-image: url('../img/contact_bg.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
